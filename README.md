@@ -1,7 +1,7 @@
 # github-demo
 demo repository
 ## Introduction
-adding a line
+adding a line - now more edits from myfeature
 
 ## Purpose
 
