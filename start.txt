@@ -12,3 +12,5 @@ thank you
 
 updating for stash test
 another comment
+
+index stash change
